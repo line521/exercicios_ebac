@@ -11,7 +11,6 @@ Quando eu preencher o campo <nome>, <sobrenome>, <pais>, <endereco>, <cidade>, <
 E o campo <e-mail> estiver com formato válido
 Então deve ser exibido a <mesangem> de alerta. 
 
-
 Exemplos:
 
  | nome | sobrenome | pais | endereco | cidade | cep | telefone | e-mail | mensagem |
