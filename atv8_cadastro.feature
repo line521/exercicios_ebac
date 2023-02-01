@@ -7,14 +7,8 @@ Para finalizar minha compra
 
 
 Esquema do Cenário: Cadastro 
-Quando eu preencher o campo <nome>
-E o campo <sobrenome> 
-E o campo <pais>
-E o campo <endereco> 
-E o campo <cidade> 
-E o campo  <cep>
-E o campo  <telefone>
-E o campo  <e-mail>
+Quando eu preencher o campo <nome>, <sobrenome>, <pais>, <endereco>, <cidade>, <cep>, <telefone>, <e-mail>
+E o campo <e-mail> estiver com formato válido
 Então deve ser exibido a <mesangem> de alerta. 
 
 
